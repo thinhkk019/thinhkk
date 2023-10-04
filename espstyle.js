@@ -1,1 +1,262 @@
-eval(function(p,a,c,k,e,d){e=function(c){return c};if(!''.replace(/^/,String)){while(c--){d[c]=k[c]||c}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('7(79 $==\'73\')163("网络连接失败, 请重新启动!");9 80(){$("74#125 64").63();$("74#119 64").63();$("#114").57("0");$("#144").57("136:0");$("#134").57("131:0")}$(21).129(9(){$("47.75").118(9(){$("47.75").76("50");$("47.135").76("50");$(19).78("50");12 77=$(19).137("29");$("47#"+77).78("50")});21.61.142=21.61.143=9(){16 31}$("145").138(9(){8.128(0,0)});21.61.97(\'113\',9(){});7(79 116!=\'73\'){112(0,0,8.40.35,8.40.23);127(9(){12 29=21.56("#110");7(29.49.46==\'52\'){29.49.46=\'122\';59(107)}22{29.49.46=\'52\';59(31)}});80();$("#123").124("");$("126[146=140]").148("64").63()}12 13=21.56("#167");12 62=8.38;13.23=8.40.35*62;13.35=8.40.23*62;12 3=13.169("172",{147:31,171:31});165.93.109=9(4,5,28,27,20){7(28<2*20)20=28/2;7(27<2*20)20=27/2;19.37();19.53(4+20,5);19.39(4+28,5,4+28,5+27,20);19.39(4+28,5+27,4,5+27,20);19.39(4,5+27,4,5,20);19.39(4,5,4+28,5,20);19.176();16 19}8.11=[];12 36=-1;9 69(6){7(11[6].82==1||11[6].83==1){36++;16 1}22{16 0}}9 68(6){7(11[6].82==1||11[6].83>1){36++;16 1}22{16 0}}9 87(84){12 17={4:(13.23)/2,5:(13.35)/2,32:85,45:100};7(84=="88"){81(12 6=0;6<11.54;6++){7(11[6].164==1){17={4:11[6].4*8.38,5:11[6].5*8.38,32:11[6].32,45:11[6].45}149}}}22{17={4:(13.23)/2,5:(13.35)/2,32:85,45:100}}16 17}9 72(48,43){12 18=26.71(26.44(48.4-43.4,2)+26.44(48.5-43.5,2));18=26.71(26.44(18,2)+26.44(48.86-43.86,2));16 26.158(18)}9 98(){36=0;12 17=87("88");3.156(0,0,13.23,13.35);7(8.99==0)16;3.37();3.34=2;3.92="106";3.105="104";3.103=\'102 155\';3.41="24";81(12 6=0;6<11.54;6++){12 4=11[6].4*8.38;12 5=11[6].5*8.38;12 18=72(17.32,11[6].32);3.55(18,4,5);7(8.153){7(69(6))67;7(8.152){3.34=2;3.14="66";3.90(4-100,5-150,150,150)}3.37();3.34=2;7(18<70){3.14="42"}22 7(18<65){3.14="89"}22{3.14="24"}7(8.91){3.14="24"}3.53(17.4,17.5);3.95(4,5-10);3.108()}7(8.151){7(68(6))67;3.34=2;3.14="66";3.90(4-100,5-150,150,150);3.37();3.34=2;7(18<70){3.14="42"}22 7(18<65){3.14="89"}22{3.14="24"}7(8.91){3.14="24"}3.53(17.4,17.5);3.95(4,5-10);3.108()}}3.34=0;3.41="24";3.14="24";3.109((13.23-111)/2,30,111,60,15).154();3.92="106";3.105="104";3.41="42";3.103=\'102 "157, 159-160"\';3.55(11.54-36,13.23/2,25);3.37();3.41="42";3.55("162",120,120)}8.99=1;170(9(){98()},33);21.97("175",9(58){96 94=21.174(".173");96 101=168.93.166.161(94,9(51){16 51.117(58.115)&&51.121<51.141});7(101){16 107}58.139()},{130:31})});9 133(){132 29=21.56("#110");29.49.46=\'52\';59(31)}',10,177,'|||ctx|x|y|i|if|window|function||gRoles|let|canvas|strokeStyle||return|lineOri|distance|this|r|document|else|width|transparent||Math|h|w|menu||false|pos||lineWidth|height|skippedLineCnt|beginPath|devicePixelRatio|arcTo|screen|fillStyle|red|pos2|pow|lv|display|div|pos1|style|current|el|none|moveTo|length|fillText|querySelector|html|e|setWindowTouch||body|scale|remove|tr|500|white|continue|isSkipLine1|isSkipLine|300|sqrt|getDistance|undefined|table|menubox|removeClass|menuid|addClass|typeof|resetDebugInfo|for|isDead|camp|type|1000|z|getLineOrigin|self|yellow|strokeRect|xoaline|textBaseline|prototype|excludeEl|lineTo|const|addEventListener|startdraw|draw_state||isExclude|40px|font|center|textAlign|top|true|stroke|roundRect|console|200|setWindowRect|touchstart|GameObjectTotalCount|target|h5gg|contains|click|Component||clientHeight|block|MainComponentFilter|text|GameObject|td|setButtonAction|scroll|ready|passive|types|var|anniu3|ComponentCount|menuview|valid|attr|blur|preventDefault|SubComponentFilter|scrollHeight|onselectstart|ondrag|GameObjectCount|input|filter|alpha|closest|break||drawRayline1|box|drawRayline|fill|Tahoma|clearRect|Arial|round|sans|serif|call|Kkk|alert|isSelf|CanvasRenderingContext2D|some|cav|Array|getContext|setInterval|desynchronized|2d|scrollbar|querySelectorAll|touchmove|closePath'.split('|'),0,{}))
+    
+if(typeof $ == 'undefined') alert("网络连接失败, 请重新启动!");
+
+function resetDebugInfo()
+{
+    $("table#GameObject tr").remove();
+    $("table#Component tr").remove();
+    $("#GameObjectTotalCount").html("0");
+    $("#GameObjectCount").html("valid:0");
+    $("#ComponentCount").html("types:0");
+    
+}
+
+$(document).ready(function(){
+    //alert();
+    //绑定菜单点击切换子页面
+    $("div.menubox").click(function(){
+        $("div.menubox").removeClass("current");
+        $("div.menuview").removeClass("current");
+        $(this).addClass("current");
+        
+        let menuid = $(this).attr("menu");
+        $("div#"+menuid).addClass("current");
+    });
+    
+    /*禁止文本Option和拖动*/
+    document.body.onselectstart = document.body.ondrag =function(){
+        return false;
+    }
+    
+    $("input").blur(function(){
+        window.scroll(0,0); //文本框等输入完毕后页面自动滚动到顶部
+    });
+    
+    //激活webkit的button:active
+    document.body.addEventListener('touchstart', function () {});
+
+    if(typeof h5gg!='undefined') {
+
+        setWindowRect(0,0,window.screen.height,window.screen.width);
+
+        setButtonAction(function(){
+               
+               let menu = document.querySelector("#console");
+               if(menu.style.display=='none') {
+                   menu.style.display='block';
+                   //隐藏菜单之后, 设置触控穿透悬浮窗口
+                   setWindowTouch(true);
+               } else {
+                   menu.style.display='none';
+                   //显示菜单之后, 设置触控不可穿透悬浮窗口
+                   setWindowTouch(false);
+               }
+           
+          });
+
+        resetDebugInfo();
+        $("#MainComponentFilter").text("");
+        $("td[filter=SubComponentFilter]").closest("tr").remove();
+    }
+
+    // for(let i=0; i<8000; i++) //显示过多列表疯狂上拉刷新会爆内存崩溃
+    //         $("table#GameObject tbody").append("<tr><td>[0x13d84afc0] Character 214200107</td><td style=\"width:20px\" onclick=\"alert('count of Components in this GameObject')\">(5)</td></tr>");
+
+
+    //获取画布
+    let canvas = document.querySelector("#cav");
+    //设置按照屏幕像素尺寸绘图(高清模式)
+    let scale = window.devicePixelRatio;
+
+    canvas.width = window.screen.height * scale;
+    canvas.height = window.screen.width * scale;
+
+        //获取绘图
+    let ctx = canvas.getContext("2d", {alpha: false, desynchronized: false});
+
+    //添加圆角矩形功能
+    CanvasRenderingContext2D.prototype.roundRect = function (x, y, w, h, r) {
+        if (w < 2 * r) r = w / 2;
+        if (h < 2 * r) r = h / 2;
+        this.beginPath();
+        this.moveTo(x+r, y);
+        this.arcTo(x+w, y, x+w, y+h, r);
+        this.arcTo(x+w, y+h, x, y+h, r);
+        this.arcTo(x, y+h, x, y, r);
+        this.arcTo(x, y, x+w, y, r);
+        this.closePath();
+        return this;
+    }
+
+    window.gRoles = [];
+let skippedLineCnt=-1;
+   function isSkipLine(i){
+     if (gRoles[i].isDead == 1 || gRoles[i].camp == 1) {
+        skippedLineCnt++;
+        return 1;
+      } else {
+       return 0;
+      }
+   }
+
+function isSkipLine1(i){
+     if (gRoles[i].isDead == 1 || gRoles[i].camp > 1) {
+        skippedLineCnt++;
+        return 1;
+      } else {
+       return 0;
+      }
+   }
+    function getLineOrigin(type){
+      let lineOri={
+          x:(canvas.width)/2,y:(canvas.height)/2,pos:1000,lv:100
+   };
+  if (type == "self"){
+       for(let i=0; i<gRoles.length; i++) {
+          if (gRoles[i].isSelf == 1){
+           lineOri={
+             x:gRoles[i].x*window.devicePixelRatio,y:gRoles[i].y*window.devicePixelRatio,pos:gRoles[i].pos,lv:gRoles[i].lv
+          }          
+break;
+        }
+        }
+     } else {   
+   lineOri={
+          x:(canvas.width)/2,y:(canvas.height)/2,pos:1000,lv:100
+      }
+     }
+      return lineOri;
+   }
+  function getDistance(pos1,pos2){
+   let distance = Math.sqrt(Math.pow(pos1.x-pos2.x,2)+Math.pow(pos1.y-pos2.y,2));
+ distance = Math.sqrt(Math.pow(distance,2)+Math.pow(pos1.z-pos2.z,2));
+return Math.round(distance);
+   }
+
+
+    function startdraw()
+    {
+
+        //清理画布开始新一轮绘图
+        skippedLineCnt=0;
+        let lineOri = getLineOrigin("self");
+ctx.clearRect(0,0,canvas.width,canvas.height);
+
+        if(window.draw_state==0) return;
+        
+        //画个圆圈
+ctx.beginPath();
+       ctx.lineWidth = 2;
+ctx.textBaseline="top";
+      ctx.textAlign="center";
+     ctx.font='40px Tahoma';
+        ctx.fillStyle="transparent";
+        
+        for(let i=0; i<gRoles.length; i++)
+        {
+
+
+            let x = gRoles[i].x*window.devicePixelRatio;
+            let y = gRoles[i].y*window.devicePixelRatio;
+
+            //ctx.fillText(gRoles[i].id, x, y);
+            let distance=getDistance(lineOri.pos,gRoles[i].pos);
+          ctx.fillText(distance, x, y);
+
+            if(window.drawRayline) {
+if (isSkipLine(i)) continue;
+if(window.box) {
+ ctx.lineWidth=2; //线宽
+            ctx.strokeStyle="white";
+ctx.strokeRect(x-100, y-150, 150, 150);}
+                ctx.beginPath();
+                ctx.lineWidth=2; //线宽
+
+if (distance < 300){
+ctx.strokeStyle="red";
+} else if (distance < 500){
+ctx.strokeStyle="yellow";
+} 
+else {
+ctx.strokeStyle="transparent";
+} //綠  色  
+  if(window.xoaline){
+ctx.strokeStyle="transparent";
+}              
+ctx.moveTo(lineOri.x, lineOri.y);
+ctx.lineTo(x, y-10); //结  束  点
+                ctx.stroke(); //射线
+            }
+if(window.drawRayline1) {
+if (isSkipLine1(i)) continue;
+ctx.lineWidth=2; //线宽
+            ctx.strokeStyle="white";
+ctx.strokeRect(x-100, y-150, 150, 150);
+                ctx.beginPath();
+                ctx.lineWidth=2; //线宽
+if (distance < 300){
+ctx.strokeStyle="red";
+} else if (distance < 500){
+ctx.strokeStyle="yellow";
+} 
+else {
+ctx.strokeStyle="transparent";
+} //綠  色  
+ if(window.xoaline){
+ctx.strokeStyle="transparent";
+}                   
+ctx.moveTo(lineOri.x, lineOri.y);
+ctx.lineTo(x, y-10); //结  束  点
+                ctx.stroke(); //射线
+            }
+       
+        }
+
+
+
+        
+        ctx.lineWidth=0;
+        ctx.fillStyle="transparent";
+       ctx.strokeStyle="transparent";
+       ctx.roundRect((canvas.width-200)/2, 30, 200, 60, 15).fill();
+ctx.textBaseline="top";
+    ctx.textAlign="center";
+    ctx.fillStyle="red";
+    ctx.font='40px "Arial, sans-serif"';
+    ctx.fillText(gRoles.length-skippedLineCnt, canvas.width/2,25);
+
+        //计算FPS
+        ctx.beginPath();
+ctx.fillStyle="red";
+  ctx.fillText("Kkk",120,120);
+
+    }
+    
+    //默认关闭绘图
+    window.draw_state = 1;
+    
+    //* 定时器绘图, 在JS线程, 不影响APP帧率, 不要使用requestAnimationFrame会导致APP卡顿
+    setInterval(function(){
+        startdraw();
+    }, 33);//*/
+
+    document.addEventListener("touchmove", function(e) {
+        const excludeEl = document.querySelectorAll(".scrollbar");
+        const isExclude = Array.prototype.some.call(excludeEl, function(el) {
+            return el.contains(e.target) && el.clientHeight<el.scrollHeight;
+        });
+        //console.log(isExclude, e.target);
+        if (isExclude) {
+            return true;
+        }
+        e.preventDefault();
+    }, { passive: false } );
+});
+function anniu3() {
+    var menu = document.querySelector("#console");
+    menu.style.display='none';
+    
+    //隐藏菜单之后, 设置触控穿透悬浮窗口
+    setWindowTouch(false);
+                  }
+      
